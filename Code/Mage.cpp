@@ -1,4 +1,3 @@
-
 #include <iostream>
 
 //définir un constructeur

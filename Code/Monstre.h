@@ -1,14 +1,12 @@
-#ifndef TICTACTOE_H
-#define TICTACTOE_H
-
 #include <string>
 
+//définir la classe
 class Monstre{
 
     private:
         int _pV;
-        int _scoreAttaque;
-        char _dispo;
+        int _attaque;
+        bool _dispo;
 
     public:
         Monstre();
@@ -21,4 +19,3 @@ class Monstre{
 
 };
 
-#endif
