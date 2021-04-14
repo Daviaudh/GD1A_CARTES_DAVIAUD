@@ -1,4 +1,5 @@
-
+#ifndef Monstre_cpp
+#define Monstre_cpp
 #include <iostream>
 
 //définir un constructeur
@@ -14,3 +15,4 @@
  void Monstre::monstrePerdVie(){
      
  }
+ #endif
